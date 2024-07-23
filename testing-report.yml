@@ -1,0 +1,24 @@
+---
+- summary: |
+    Поиск товаров по ключевому слову
+  status: pass
+
+- summary: |
+    Поиск товаров по категории
+  status: pass
+
+- summary: |
+    Поиск товаров по фильтрам
+  status: pass
+  
+  - summary: |
+    Просмотр карточки товара
+  status: pass
+
+  - summary: |
+    Возможность добавлять товары в корзину
+  status: pass
+
+  - summary: |
+    Адаптивность сайта на различных устройствах
+  status: fail
