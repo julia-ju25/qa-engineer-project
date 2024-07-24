@@ -17,7 +17,7 @@
  - summary: |
     Нет возможности закрытия модального окна после оформления заказа
   environment: |
-    Devtools device iPhone 12
+    Google Chrome 126.0.6478.183 (Официальная сборка), (64 бит)
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/cart 
     2. Добавить несколько товаров в корзину
