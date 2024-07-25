@@ -45,7 +45,7 @@ bugreports:
     image2.png
     image3.jpg
 
- - summary: |
+  - summary: |
     Нет возможности закрытия модального окна после оформления заказа
   environment: |
     Google Chrome 126.0.6478.183 (Официальная сборка), (64 бит)
