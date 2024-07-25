@@ -11,18 +11,18 @@
     Поиск товаров по фильтрам
   status: pass
   
-  - summary: |
+- summary: |
     Просмотр карточки товара
   status: pass
 
-  - summary: |
+- summary: |
     Возможность добавлять товары в корзину
   status: pass
 
-  - summary: |
+- summary: |
     Корректная работа на мобильных устройствах
   status: fail
 
-  - summary: |
+- summary: |
     Возможность закрытия модального окна после оформления заказа
   status: fail
