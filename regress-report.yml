@@ -4,11 +4,11 @@ test-cases:
     Поиск товаров по ключевому слову
   status: pass
 
-- summary: |
+  - summary: |
     Поиск товаров по категории
   status: fail
 
-- summary: |
+  - summary: |
     Поиск товаров по фильтрам
   status: pass
   
