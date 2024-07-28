@@ -65,8 +65,7 @@ bugreports:
     environment: |
       Google Chrome 126.0.6478.183 (Официальная сборка), (64 бит)
     steps-to-reproduce: |
-      1. Зайти на страницу https://hexlet-products-store.vercel.app/cart 
-      2. Выбрать пустую строку в категории
+      1. Выбрать пустую строку в категории на главной странице магазина
     expected-result: |
       Не известно что должна делать эта категория и для чего эта пустая строка добавлена
     actual-result: |
