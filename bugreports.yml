@@ -13,7 +13,7 @@
     Открытое окно корзины должно корректно отображаться, верстка должна умещаться в экран, кнопки и их обозначения должны быть на своих местах 
   actual-result: |
     Текст не умещается в кнопках, отображение не корректно
-    [Screenshot](https://github.com/julia-ju25/qa-engineer-project/blob/230d0777f106efdde2306e62aaffae86073ef457/Screenshots/image.png)
+    Screenshots/image.png
 
 - summary: |
     Не закрывается модальное окно после оформления заказа
